@@ -1,0 +1,16 @@
+pandas
+numpy
+pyarrow
+scikit-learn==1.5.2
+lightgbm
+shap
+geopandas
+pyproj
+rapidfuzz
+chardet
+scipy
+matplotlib
+seaborn
+joblib
+jupyter
+nbconvert
